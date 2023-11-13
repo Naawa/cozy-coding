@@ -24,12 +24,12 @@
       {
         "label": "Cozy Evenings",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cozy-Evenings-color-theme.json"
+        "path": "./themes/cozy-evenings-color-theme.json"
       },
       {
         "label": "Cozy Mornings",
         "uiTheme": "vs",
-        "path": "./themes/Cozy-Mornings-color-theme.json"
+        "path": "./themes/cozy-mornings-color-theme.json"
       }
     ]
   }
