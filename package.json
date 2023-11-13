@@ -1,0 +1,26 @@
+{
+  "name": "cozy-coding",
+  "displayName": "Cozy Coding",
+  "description": "Cozy coding with cozy colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cozy Evenings",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cozy-Evenings-color-theme.json"
+      },
+      {
+        "label": "Cozy Mornings",
+        "uiTheme": "vs",
+        "path": "./themes/Cozy-Mornings-color-theme.json"
+      }
+    ]
+  }
+}
